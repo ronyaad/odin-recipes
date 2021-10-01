@@ -1,0 +1,40 @@
+.header{   
+    color: red;
+    background-color: yellow;
+    font-family: "Times New Roman", sans-serif;
+    padding: 1px;
+    font-size: 30px;
+    text-align: center;
+}
+
+a{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.align-left{
+    background-color: green;
+	float: left;
+    width: 30%;
+    border-style: solid;
+    margin-left: 10px;
+    
+}
+.align-right {
+	float: right;
+    width: 30%;
+    background-color: blue;
+    border-style: dashed;
+    margin-right: 10px;
+}
+img{
+    border-radius: 5%;
+}
+body{
+    background-color: orange;
+
+    padding-bottom: 40px;
+    margin: 0;
+}
+
+a{color:rgb(223, 37, 223)}
